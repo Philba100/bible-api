@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ASV",
+    "name": "American Standard Version",
+    "language": "en",
+    "filename": "asv.json"
+  },
+  {
+    "id": "BBE",
+    "name": "Bible in Basic English",
+    "language": "en",
+    "filename": "en_bbe.json"
+  },
+  {
+    "id": "BISHOPS",
+    "name": "Bishops' Bible",
+    "language": "en",
+    "filename": "bishops.json"
+  },
+  {
+    "id": "GENEVA",
+    "name": "Geneva Bible",
+    "language": "en",
+    "filename": "geneva.json"
+  },
+  {
+    "id": "NET",
+    "name": "New English Translation",
+    "language": "en",
+    "filename": "net.json"
+  },
+  {
+    "id": "WEB",
+    "name": "World English Bible",
+    "language": "en",
+    "filename": "web.json"
+  }
+]
