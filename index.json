@@ -1,5 +1,71 @@
 [
   {
+    "id": "AMP",
+    "name": "Amplified Bible",
+    "language": "en",
+    "filename": "AMP_bible.json"
+  },
+  {
+    "id": "CSB",
+    "name": "Christian Standard Bible",
+    "language": "en",
+    "filename": "CSB_bible.json"
+  },
+  {
+    "id": "ESV",
+    "name": "English Standard Version",
+    "language": "en",
+    "filename": "ESV_bible.json"
+  },
+  {
+    "id": "GNV",
+    "name": "Geneva Bible (1599)",
+    "language": "en",
+    "filename": "GNV_bible.json"
+  },
+  {
+    "id": "GW",
+    "name": "God's Word Translation",
+    "language": "en",
+    "filename": "GW_bible.json"
+  },
+  {
+    "id": "ISV",
+    "name": "International Standard Version",
+    "language": "en",
+    "filename": "ISV_bible.json"
+  },
+  {
+    "id": "NASB",
+    "name": "New American Standard Bible",
+    "language": "en",
+    "filename": "NASB_bible.json"
+  },
+  {
+    "id": "NIV",
+    "name": "New International Version",
+    "language": "en",
+    "filename": "NIV_bible.json"
+  },
+  {
+    "id": "NKJV",
+    "name": "New King James Version",
+    "language": "en",
+    "filename": "NKJV_bible.json"
+  },
+  {
+    "id": "NLT",
+    "name": "New Living Translation",
+    "language": "en",
+    "filename": "NLT_bible.json"
+  },
+  {
+    "id": "NLV",
+    "name": "New Life Version",
+    "language": "en",
+    "filename": "NLV_bible.json"
+  },
+  {
     "id": "ASV",
     "name": "American Standard Version",
     "language": "en",
@@ -16,12 +82,6 @@
     "name": "Bishops' Bible",
     "language": "en",
     "filename": "bishops.json"
-  },
-  {
-    "id": "GENEVA",
-    "name": "Geneva Bible",
-    "language": "en",
-    "filename": "geneva.json"
   },
   {
     "id": "NET",
